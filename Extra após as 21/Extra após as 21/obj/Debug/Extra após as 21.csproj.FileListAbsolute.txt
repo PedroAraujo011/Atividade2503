@@ -1,0 +1,7 @@
+C:\Users\Pedro.hbaraujo5\source\repos\Extra após as 21\Extra após as 21\bin\Debug\Extra após as 21.exe.config
+C:\Users\Pedro.hbaraujo5\source\repos\Extra após as 21\Extra após as 21\bin\Debug\Extra após as 21.exe
+C:\Users\Pedro.hbaraujo5\source\repos\Extra após as 21\Extra após as 21\bin\Debug\Extra após as 21.pdb
+C:\Users\Pedro.hbaraujo5\source\repos\Extra após as 21\Extra após as 21\obj\Debug\Extra após as 21.csproj.AssemblyReference.cache
+C:\Users\Pedro.hbaraujo5\source\repos\Extra após as 21\Extra após as 21\obj\Debug\Extra após as 21.csproj.CoreCompileInputs.cache
+C:\Users\Pedro.hbaraujo5\source\repos\Extra após as 21\Extra após as 21\obj\Debug\Extra após as 21.exe
+C:\Users\Pedro.hbaraujo5\source\repos\Extra após as 21\Extra após as 21\obj\Debug\Extra após as 21.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pedro.hbaraujo5\source\repos\010]\010]\bin\Debug\010].exe.config
+C:\Users\Pedro.hbaraujo5\source\repos\010]\010]\bin\Debug\010].exe
+C:\Users\Pedro.hbaraujo5\source\repos\010]\010]\bin\Debug\010].pdb
+C:\Users\Pedro.hbaraujo5\source\repos\010]\010]\obj\Debug\010].csproj.AssemblyReference.cache
+C:\Users\Pedro.hbaraujo5\source\repos\010]\010]\obj\Debug\010].csproj.CoreCompileInputs.cache
+C:\Users\Pedro.hbaraujo5\source\repos\010]\010]\obj\Debug\010].exe
+C:\Users\Pedro.hbaraujo5\source\repos\010]\010]\obj\Debug\010].pdb

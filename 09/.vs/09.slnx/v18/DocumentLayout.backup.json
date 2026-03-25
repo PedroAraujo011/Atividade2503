@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro.hbaraujo5\\source\\repos\\09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A218DE-1D8C-4879-A33F-0C06053CDFBF}|09\\09.csproj|c:\\users\\pedro.hbaraujo5\\source\\repos\\09\\09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A218DE-1D8C-4879-A33F-0C06053CDFBF}|09\\09.csproj|solutionrelative:09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro.hbaraujo5\\source\\repos\\09\\09\\Program.cs",
+              "RelativeDocumentMoniker": "09\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro.hbaraujo5\\source\\repos\\09\\09\\Program.cs*",
+              "RelativeToolTip": "09\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T18:21:03.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

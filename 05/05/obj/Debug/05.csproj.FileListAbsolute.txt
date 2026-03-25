@@ -1,0 +1,7 @@
+C:\Users\Pedro.hbaraujo5\source\repos\05\05\bin\Debug\05.exe.config
+C:\Users\Pedro.hbaraujo5\source\repos\05\05\bin\Debug\05.exe
+C:\Users\Pedro.hbaraujo5\source\repos\05\05\bin\Debug\05.pdb
+C:\Users\Pedro.hbaraujo5\source\repos\05\05\obj\Debug\05.csproj.AssemblyReference.cache
+C:\Users\Pedro.hbaraujo5\source\repos\05\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\Pedro.hbaraujo5\source\repos\05\05\obj\Debug\05.exe
+C:\Users\Pedro.hbaraujo5\source\repos\05\05\obj\Debug\05.pdb

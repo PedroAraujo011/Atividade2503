@@ -1,0 +1,7 @@
+C:\Users\Pedro.hbaraujo5\source\repos\21\21\bin\Debug\21.exe.config
+C:\Users\Pedro.hbaraujo5\source\repos\21\21\bin\Debug\21.exe
+C:\Users\Pedro.hbaraujo5\source\repos\21\21\bin\Debug\21.pdb
+C:\Users\Pedro.hbaraujo5\source\repos\21\21\obj\Debug\21.csproj.AssemblyReference.cache
+C:\Users\Pedro.hbaraujo5\source\repos\21\21\obj\Debug\21.csproj.CoreCompileInputs.cache
+C:\Users\Pedro.hbaraujo5\source\repos\21\21\obj\Debug\21.exe
+C:\Users\Pedro.hbaraujo5\source\repos\21\21\obj\Debug\21.pdb

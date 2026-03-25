@@ -1,0 +1,7 @@
+C:\Users\Pedro.hbaraujo5\source\repos\19\19\bin\Debug\19.exe.config
+C:\Users\Pedro.hbaraujo5\source\repos\19\19\bin\Debug\19.exe
+C:\Users\Pedro.hbaraujo5\source\repos\19\19\bin\Debug\19.pdb
+C:\Users\Pedro.hbaraujo5\source\repos\19\19\obj\Debug\19.csproj.AssemblyReference.cache
+C:\Users\Pedro.hbaraujo5\source\repos\19\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+C:\Users\Pedro.hbaraujo5\source\repos\19\19\obj\Debug\19.exe
+C:\Users\Pedro.hbaraujo5\source\repos\19\19\obj\Debug\19.pdb
